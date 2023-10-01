@@ -6,16 +6,6 @@ Instruksi Praktikum
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-## Modul Praktikum Pemrograman Web
-!
-Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
-
-
-!
-
-
-
-
 ## 1.Membuat Paragraf
 ```
 <!-- Ini adalah paragraf pertama -->
@@ -28,8 +18,8 @@ HTML.</p>
 mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
 tag dasar html.</p>
 ```
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/35150113-e658-4b10-a3b2-ede79326ae0e)
 
-!
 
 ## 2.Menambahkan Judul
 ```
@@ -39,7 +29,8 @@ tag dasar html.</p>
 <h2>Paragraf pada HTML</h2>
 ```
 
-!
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/16888158-2513-4c69-9237-4de94c18c105)
+
 
 ## 3.Memformat teks
 ```
@@ -49,7 +40,8 @@ tag dasar html.</p>
         tag-tag dasar HTML.</p>
 ```
 
-!
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/2663cd78-b08e-403b-916e-055721a36fc2)
+
 
 ## 4.Menyisipkan Gambar
 ```
@@ -57,10 +49,8 @@ tag dasar html.</p>
     <img src="logo upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
 ```
 
-!
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/c2474cdd-4eb2-4ec1-9637-ac0795e45882)
 
-
-!
 
 ## 5. Menambahkan Hyperlink
 ```
@@ -72,11 +62,13 @@ tag dasar html.</p>
     <hr>
 ```
 
-!
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/bd4a7f6c-137c-4497-81e2-0dfac1a61529)
+
 
 ## Halaman 2
 
-!
+![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/0bcb34a3-e506-4a2d-a507-73ddcd26f811)
+
 
 
 ## Jawab Pertanyaan Berikut
