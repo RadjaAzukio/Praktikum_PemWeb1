@@ -6,12 +6,6 @@ Instruksi Praktikum
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-## Langkah-langkah Praktikum
-Persiapan membuka VSCode dan Browser.
-!
-Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
-HTML.
-
 ## Modul Praktikum Pemrograman Web
 !
 Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
