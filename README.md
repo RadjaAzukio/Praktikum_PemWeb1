@@ -34,10 +34,22 @@ tag dasar html.</p>
 
 ## 3.Memformat teks
 ```
- <p align=”center”>Kami sedang belajar <mark>HTML dasar,</mark> pada matakuliah <b>Pemrograman Web</b>
-        di Prodi <I>Teknik Informatika </I> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
+ <center>
+    <!-- judul paragraf pertama -->
+    <h1>Belajar Dasar HTML</h1>
+    </center>   
+    <p style="text-align: center;">Kami sedang belajar <mark>HTML dasar,</mark> pada matakuliah <b>Pemrograman Web</b>
+        di Prodi <I>Teknik Informatika </I> <Universitas> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
         yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
         tag-tag dasar HTML.</p>
+
+    <center>
+    <!-- judul paragraf kedua -->
+    <h2>Paragraf Pada HTML</h2>
+    </center>
+    <p style="text-align: right;">Ini merupakan sebuah paragraf yang terdiri dari beberapa
+        kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+        dengan menggunakan tag dasar html.</p>
 ```
 
 ![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/2663cd78-b08e-403b-916e-055721a36fc2)
@@ -45,8 +57,13 @@ tag dasar html.</p>
 
 ## 4.Menyisipkan Gambar
 ```
-<h3>Menambahkan Gambar</h3>
-    <img src="logo upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
+ <center>
+    <h3>Menambahkan Gambar</h3>
+    </center>
+
+    <center>
+    <img src="LogoUpb.png" width="250" title="Logo Univeritas Pelita Bangsa" >
+    </center>
 ```
 
 ![image](https://github.com/RadjaAzukio/Praktikum_PemWeb1/assets/115551911/c2474cdd-4eb2-4ec1-9637-ac0795e45882)
@@ -55,8 +72,8 @@ tag dasar html.</p>
 ## 5. Menambahkan Hyperlink
 ```
  <nav>
-        <a href="lab1_tag_dasar.html">Dasar HTML</a>
-        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="latihan HTML Pemrograman Web.html">Dasar HTML</a>
+        <a href="halaman2.html">Halaman 2</a>
         <a href="http://www.google.com">Halaman Web Eksternal Google</a>
         </nav>
     <hr>
